@@ -13,3 +13,5 @@ It includes various examples and exercises to help understand and implement unit
   "test": "jest"
 }
 `
+### Now, you can run the tests using the npm command.
+`npm test`
